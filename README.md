@@ -1,2 +1,2 @@
 # GitHubCoop
-Uso de GitHub de manera colaborativa
+"HOLA MUNDO"
